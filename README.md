@@ -1,2 +1,2 @@
 # hello-world
-Mater Branch
+Master Branch
